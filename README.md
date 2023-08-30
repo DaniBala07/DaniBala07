@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h2>Um pouco sobre mim...</h2>
+<h2>Meu nome é Daniel Soares</h2>
+<p>Sou novo no mundo da programação,atualmente estou Cursando no IOS</p>
+<img src="https://veja.abril.com.br/wp-content/uploads/2016/05/giphy-3-original.gif?w=500&h=300&crop=1">
